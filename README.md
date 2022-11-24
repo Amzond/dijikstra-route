@@ -1,5 +1,5 @@
 # dijikstra-route 
-# adjacency list path
-# multiple destinations
-# set starting point
-# find closest destination point route
+ adjacency list path
+ multiple destinations
+ set starting point
+ find closest destination point route
