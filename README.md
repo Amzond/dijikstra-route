@@ -1,4 +1,4 @@
-# dijikstra-route 
+# dijkstra-route 
  adjacency list path
  multiple destinations
  set starting point
